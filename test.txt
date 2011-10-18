@@ -1,2 +1,4 @@
 test from onoat (command line) 
+test from onoat (EGit)
+
 
